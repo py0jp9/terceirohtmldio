@@ -3,10 +3,15 @@ Site wiki sobre a trilogia original de Star Wars, desenvolvido como exercício p
 Páginas
 
 wikipedianew.html — Página principal com história e personagens
+
 historia.html — Resumo dos episódios I ao VI
+
 personagens.html — Personagens mais conhecidos da saga
+
 planeta.html — Planetas da galáxia
+
 jedixsith.html — A Força: Jedi vs Sith
+
 
 Tecnologias
 
